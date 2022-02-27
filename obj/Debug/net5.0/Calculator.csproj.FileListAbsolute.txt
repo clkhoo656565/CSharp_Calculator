@@ -1,0 +1,16 @@
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
